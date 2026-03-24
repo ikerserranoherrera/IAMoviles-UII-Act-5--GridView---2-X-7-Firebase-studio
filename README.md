@@ -1,4 +1,10 @@
 # myapp
+<img width="409" height="723" alt="image" src="https://github.com/user-attachments/assets/e115a366-0e7b-4fd5-be76-67e78eeaaeec" />
+<img width="407" height="705" alt="image" src="https://github.com/user-attachments/assets/9ebed10c-99e9-4233-a2ba-31130a525bca" />
+<img width="410" height="702" alt="image" src="https://github.com/user-attachments/assets/36cbbce0-7627-4233-94b1-d12957153e9d" />
+<img width="1229" height="762" alt="image" src="https://github.com/user-attachments/assets/e57936f1-1893-48e8-bbbd-722d2bc49f4b" />
+<img width="1220" height="730" alt="image" src="https://github.com/user-attachments/assets/e29c45c1-200c-42d7-88ae-59b5a7719893" />
+<img width="1221" height="730" alt="image" src="https://github.com/user-attachments/assets/7d040451-2ab4-41e5-b86f-3590bb6a1096" />
 
 A new Flutter project.
 
@@ -51,14 +57,20 @@ errorBuilder: Muestra un icono de Icons.fastfood si el link de la imagen falla.
 
 withAlpha: Configuración de sombras para evitar errores de compatibilidad en versiones recientes de Flutter.
 
-🛠️ Tecnologías Utilizadas
-Lenguaje: Dart
-
-Framework: Flutter
-
-Hosting de Imágenes: GitHub Repositories
-This project is a starting point for a Flutter application.
-
+https://raw.githubusercontent.com/ikerserranoherrera/imagebes-para-flutter-6I-11-02-26/refs/heads/main/Act12bebidas.png
+https://raw.githubusercontent.com/ikerserranoherrera/imagebes-para-flutter-6I-11-02-26/refs/heads/main/Act12burguer.png
+https://raw.githubusercontent.com/ikerserranoherrera/imagebes-para-flutter-6I-11-02-26/refs/heads/main/Act12dwbcb.jpg
+https://raw.githubusercontent.com/ikerserranoherrera/imagebes-para-flutter-6I-11-02-26/refs/heads/main/awuita%20de%20chica%20gamer.jpg
+https://raw.githubusercontent.com/ikerserranoherrera/imagebes-para-flutter-6I-11-02-26/refs/heads/main/boblewesternuwu.png
+https://raw.githubusercontent.com/ikerserranoherrera/imagebes-para-flutter-6I-11-02-26/refs/heads/main/burguer%20de%20pollo.PNG
+https://raw.githubusercontent.com/ikerserranoherrera/imagebes-para-flutter-6I-11-02-26/refs/heads/main/caf%C3%A9.PNG
+https://raw.githubusercontent.com/ikerserranoherrera/imagebes-para-flutter-6I-11-02-26/refs/heads/main/cheesefires.PNG
+https://raw.githubusercontent.com/ikerserranoherrera/imagebes-para-flutter-6I-11-02-26/refs/heads/main/cookies.PNG
+https://raw.githubusercontent.com/ikerserranoherrera/imagebes-para-flutter-6I-11-02-26/refs/heads/main/icecream.PNG
+https://raw.githubusercontent.com/ikerserranoherrera/imagebes-para-flutter-6I-11-02-26/refs/heads/main/lowcarb.png
+https://raw.githubusercontent.com/ikerserranoherrera/imagebes-para-flutter-6I-11-02-26/refs/heads/main/malteada.jpg
+https://raw.githubusercontent.com/ikerserranoherrera/imagebes-para-flutter-6I-11-02-26/refs/heads/main/milkshake.PNG
+https://raw.githubusercontent.com/ikerserranoherrera/imagebes-para-flutter-6I-11-02-26/refs/heads/main/onionrings.PNG
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
